@@ -1,0 +1,7 @@
+{
+    "books": [
+        {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "year": 1925},
+        {"title": "War and Peace", "author": "Leo Tolstoy", "year": 1869},
+        {"title": "The Catcher in the Rye", "author": "J.D. Salinger", "year": 1951}
+    ]
+}
