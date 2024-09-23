@@ -13,7 +13,7 @@ HAVING SUM(TotalAmount) > 1000;
 SELECT Category, COUNT(ProductID) AS NumberOfProducts
 FROM Products
 GROUP BY Category
-HAVING COUNT(ProductID) > 5;
+HAVING COUNT(ProductID)Â >Â 5;
 
 --4. Calculate the total number of products for each category and supplier combination.
 SELECT p.CategoryId, s.SupplierId, COUNT(p.ProductId) AS TotalProducts
