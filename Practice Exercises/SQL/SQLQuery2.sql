@@ -1,0 +1,1 @@
+select datediff(month,'2024-02-11',getdate())
